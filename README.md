@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oneew_</h1>
-<img align="center" alt="web-developer" width="100%" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif](https://pin.it/4RFRVw6RY)">
+<img align="center" alt="web-developer" width="100%" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 <h3 align="justify">I am an Information Systems Analyst at Prabumulih City General Hospital</h3>
 
